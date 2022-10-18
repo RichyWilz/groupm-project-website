@@ -32,3 +32,9 @@
   display: none;
   color: #007bff;
 }
+
+.links{
+  background-color: black;
+  opacity: 0.8;
+  color:white;
+}
